@@ -1,4 +1,5 @@
 
+<!--
 ***
 
 <img alt="GSoC (2022) logo failed to load. Click/tap here to attempt to view it" src="/Google_Summer_of_Code_sun_logo_2022.svg" width="200" height="200"/>
@@ -42,3 +43,7 @@ See above.
 **File version:** `1 (2023, Thursday, March 2nd at 5:21 pm PST)`
 
 ***
+
+!-->
+
+This README file needs to be rewritten. - 2023, April 14th
